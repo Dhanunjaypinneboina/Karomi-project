@@ -1,0 +1,18 @@
+.all-projects-container {
+  display: flex;
+}
+
+.all-projects-header {
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  width: 80vw;
+  align-items: center;
+}
+
+.all-projects-content {
+  padding: 20px;
+  box-shadow: 0px 0px 5px 0px #7e898c;
+  height: 100vh;
+  width: 80vw;
+}

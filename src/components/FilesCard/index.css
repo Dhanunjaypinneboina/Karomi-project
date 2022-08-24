@@ -1,0 +1,75 @@
+.file-container {
+  flex-wrap: wrap;
+
+  display: flex;
+}
+
+.upload-logo {
+  height: 150px;
+  width: 180px;
+}
+
+.file-card-container {
+  box-shadow: 0px 2px 10px 0px #7e898c;
+  height: 210px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.upload-text {
+  margin: 0px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.file-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.file-name {
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-top: 0px;
+  color: #283745;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.file-type {
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  font-family: 'Roboto';
+  color: #0773d9;
+}
+
+.file-symbol {
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #5d6166;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: #ffffff;
+  margin-right: 10px;
+}
+
+.file-hr-line {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+.file-menu {
+  font-size: 40px;
+  margin-left: 15px;
+  margin-bottom: 10px;
+}

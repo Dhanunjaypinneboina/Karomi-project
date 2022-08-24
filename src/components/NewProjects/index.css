@@ -1,0 +1,58 @@
+.project-bg-container {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+}
+
+.projects-bg-container {
+  width: 80vw;
+  padding-left: 15px;
+  padding-right: 15px;
+  height: 100vh;
+}
+
+.projects-heading {
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+
+.new-projects-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.help-icon-projects {
+  font-size: 30px;
+}
+
+.projects-filter-container {
+  background-color: #50545c;
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.list-icon {
+  color: #ffffff;
+  font-size: 30px;
+  margin-left: 8px;
+}
+
+.grid-icon {
+  color: #ffffff;
+  font-size: 30px;
+  margin-right: 8px;
+  margin-left: 10px;
+}
+
+.new-projects-container {
+  padding: 20px;
+  display: flex;
+}
+
+.new-project-bg-container {
+  box-shadow: 0px 0px 5px 0px #7e898c;
+}

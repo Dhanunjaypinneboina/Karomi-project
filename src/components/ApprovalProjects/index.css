@@ -1,0 +1,55 @@
+.projects-images {
+  height: 80px;
+  margin: 10px;
+}
+
+.project-item {
+  box-shadow: 0px 0px 5px 0px #7e898c;
+  width: 520px;
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+
+.project-content {
+  display: flex;
+  margin-bottom: 0px;
+}
+
+.project-line {
+  margin-top: 0px;
+}
+
+.project-status {
+  margin-top: 0px;
+  font-family: 'Roboto';
+  padding-right: 15px;
+}
+
+.request-num-con {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.status-text {
+  color: #02151f;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.status-code {
+  color: #3f4345;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+
+.status {
+  color: #e8092b;
+  font-size: 20px;
+}
+
+.projects-list {
+  height: 80vh;
+  overflow-y: auto;
+  width: 60vw;
+}

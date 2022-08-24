@@ -1,0 +1,137 @@
+.home-bg-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.home-content-container {
+  margin-left: 15px;
+  width: 80vw;
+}
+
+.home-heading {
+  color: #2f466b;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+
+.home-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 70vw;
+}
+
+.help-bg {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 15px;
+}
+
+.help-icon {
+  font-size: 28px;
+}
+
+.profile {
+  background-color: #06c790;
+  border-radius: 50px;
+  color: #ffffff;
+  padding: 5px;
+  margin-left: 10px;
+}
+
+.home-inboxes-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.home-inboxes {
+  box-shadow: 0px 2px 10px 0px #7e898c;
+  width: 370px;
+  margin: 15px;
+}
+
+.inbox-heading {
+  background-color: #aeb8b5;
+  margin: 0px;
+  padding: 10px;
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #000000;
+  font-weight: bold;
+}
+
+.inbox-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.inbox-count {
+  background-color: #23ad63;
+  border-radius: 10px;
+  padding: 10px;
+  min-width: 40px;
+  text-align: center;
+  margin-right: 10px;
+  color: #ffffff;
+}
+
+.inbox-time {
+  display: flex;
+  flex-direction: column;
+}
+
+.on-time-text {
+  margin: 0px;
+  color: #18274d;
+  font-family: 'Roboto';
+  padding-left: 10px;
+}
+
+.delayed-text {
+  margin: 0px;
+  padding-top: 5px;
+  color: #18274d;
+  font-family: 'Roboto';
+  padding-left: 10px;
+}
+
+.item-heading {
+  color: #346659;
+  font-size: 15px;
+  font-weight: 500;
+  padding-right: 10px;
+}
+
+.time-count {
+  color: #06a149;
+  padding-left: 10px;
+  font-size: 20px;
+}
+
+.delayed-count {
+  padding-left: 10px;
+  font-size: 20px;
+  color: #d9092f;
+}
+
+.home-filter-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #d3ddde;
+  padding: 10px;
+}
+
+.home-filters-container {
+  box-shadow: 0px 2px 10px 0px #7e898c;
+  height: 50vh;
+  overflow-y: auto;
+}
+
+.home-category-container {
+  padding: 10px;
+}
