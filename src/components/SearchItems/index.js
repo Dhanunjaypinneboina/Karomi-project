@@ -35,23 +35,23 @@ const SearchItems = () => (
                 </label>
               </div>
               <div className="check-box-ele">
-                <input type="checkbox" id="fabric-care" />
-                <label htmlFor="fabric-care" className="labels">
+                <input type="checkbox" id="fabric-care2" />
+                <label htmlFor="fabric-care2" className="labels">
                   Test Category(7)
                 </label>
               </div>
               <hr />
               <p className="category-name">Brand</p>
               <div className="check-box-ele">
-                <input type="checkbox" id="fabric-care" />
-                <label htmlFor="fabric-care" className="labels">
+                <input type="checkbox" id="fabric-care3" />
+                <label htmlFor="fabric-care3" className="labels">
                   Tide(1)
                 </label>
               </div>
 
               <div className="check-box-ele">
-                <input type="checkbox" id="fabric-care" />
-                <label htmlFor="fabric-care" className="labels">
+                <input type="checkbox" id="fabric-care4" />
+                <label htmlFor="fabric-care4" className="labels">
                   Pantene(7)
                 </label>
               </div>
@@ -59,15 +59,15 @@ const SearchItems = () => (
 
               <p className="category-name">Product</p>
               <div className="check-box-ele">
-                <input type="checkbox" id="fabric-care" />
-                <label htmlFor="fabric-care" className="labels">
+                <input type="checkbox" id="fabric-care5" />
+                <label htmlFor="fabric-care5" className="labels">
                   Test(1)
                 </label>
               </div>
 
               <div className="check-box-ele">
-                <input type="checkbox" id="fabric-care" />
-                <label htmlFor="fabric-care" className="labels">
+                <input type="checkbox" id="fabric-care6" />
+                <label htmlFor="fabric-care6" className="labels">
                   hh(7)
                 </label>
               </div>
